@@ -523,7 +523,7 @@ header, section, footer
 #sobreMi
 	{
 	position: inherit;
-	border-radios: 8%;
+	border-radius: 8%;
 	}
 #sobreMiTxt
 	{
@@ -580,7 +580,7 @@ h1
 #portFolio
 	{
 	margin-top: 17px;
-	border-radios: 8%;
+	border-radius: 8%;
 	}
 #estiloTituloPortfolio
 	{
@@ -712,7 +712,7 @@ header, section, footer
 #sobreMi
 	{
 	position: inherit;
-	border-radios: 5%;
+	border-radius: 5%;
 	}
 #sobreMiTxt
 	{
@@ -769,7 +769,7 @@ h1
 #portFolio
 	{
 	margin-top: 15px;
-	border-radios: 5%;
+	border-radius: 5%;
 	}
 #estiloTituloPortfolio
 	{
@@ -901,7 +901,7 @@ header, section, footer
 	background-color: #101010;
 	position: inherit;
 	
-	border-radios: 3%;
+	border-radius: 3%;
 	}
 #sobreMiTxt
 	{
@@ -964,7 +964,7 @@ h1
 	background-color: #101010;
 	margin-top: 13px;
 	
-	border-radios: 3%;
+	border-radius: 3%;
 	}
 #estiloTituloPortfolio
 	{
